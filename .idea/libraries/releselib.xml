@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="releselib">
+    <CLASSES>
+      <root url="file://D:/jar/spring-framework-5.0.6.RELEASE/releselib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/jar/spring-framework-5.0.6.RELEASE/releselib" recursive="false" />
+  </library>
+</component>

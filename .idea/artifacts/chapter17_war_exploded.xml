@@ -1,0 +1,25 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="chapter17:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/chapter17_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="chapter17/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="chapter17" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="aopalliance" />
+          <element id="library" level="project" name="aspectjweaver" />
+          <element id="library" level="project" name="commons" />
+          <element id="library" level="project" name="jackson" />
+          <element id="library" level="project" name="lib" />
+          <element id="library" level="project" name="mybatis-3.4" />
+          <element id="library" level="project" name="mybatis-spring-1.3" />
+          <element id="library" level="project" name="mysql" />
+          <element id="library" level="project" name="releselib" />
+          <element id="library" level="project" name="tomcat" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
