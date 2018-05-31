@@ -66,7 +66,7 @@
 
     <!--Mapper代理开发（基于MapperScannerConfigurer）-->
     <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
-        <property name="basePackage" value="com.itheima.mapper"></property>
+        <property name="basePackage" value="com.itheima.dao"></property>
     </bean>
 </beans>
 
